@@ -16,6 +16,9 @@ The second book you're going to read is *Nudge: The Final Edition* by Richard Th
 The Nudge book in particular contains many examples and case studies. Familiarize yourself with some of them beforehand so you can inspire the group when it comes to designing experiments. Consider finding some examples of nudges in your own environment as well. Once you come to understand this material, you will see them all around you. This understanding is key as well when the subject of ethics comes up: We're already surrounded by nudges. All we're doing is becoming more aware of them, and making conscious choices around what we want to make easier or harder to do. 
 
 ## Understanding the Canvas
+
+![Nudge Canvas](nudgedesigncanvas_web.JPG)
+
 The Canvas promotes a flow through the nudge design process. Rather then rushing to experiments, my intent was that the user(s) spend a considerable portion of time understanding the current environment people are in. When the context is transparant, you'll find that it's much easier to design a small experiment with a clear outcome. Taking this time is also important to get people to fully consider the system 1 issues, as our default is to only consider system 2. 
 
 The Canvas uses 4 points of view, which intersect in Step 5:
