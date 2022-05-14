@@ -81,7 +81,8 @@ Until you've solved the problem and achieved the goal, the Nudge Canvas should r
 Good luck & have fun!
 
 Wilbert Seele
-[Prosilience](https://www.wjseele.com)
+
+![Prosilience](Prosilience.png)(https://www.wjseele.com)
 
 ## Copyrights
 The Nudge Canvas and this Facilitators Guide is licensed under Creative Commons Attribution-ShareAlike 4.0 International [(CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/legalcode). 
