@@ -4,6 +4,8 @@ Thanks for your interest in using the Nudge Canvas. I'm happy to see it being us
 
 The latest version of the Nudge Canvas and this guide will always be available at [GitHub](https://github.com/wjseele/nudgecanvas).
 
+The PDF version is sized for A0. It should also work for A1, but it'll be cramped. The JPG is intended for use in Mural/Miro. 
+
 ## Preparation
 This guide won't go into detail on the how and why of nudges. This would be way too much text, and better sources exist. And speaking of those better sources: I'm going to advise you to read two books that lay at the foundation of this Canvas. The rest of the guide will assume you've read both. 
 
