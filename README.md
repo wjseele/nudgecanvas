@@ -4,7 +4,7 @@ Thanks for your interest in using the Nudge Canvas. I'm happy to see it being us
 
 The latest version of the Nudge Canvas and this guide will always be available at [GitHub](https://github.com/wjseele/nudgecanvas).
 
-The PDF version is sized for A0. It should also work for A1, but it'll be cramped. The JPG is intended for use in Mural/Miro. 
+The PDF version is sized for A0. It should also work for A1, but it'll be cramped. The JPG is intended for use in Mural/Miro. [You can find a Mural template here.](https://app.mural.co/template/7ddc0538-99a9-4f43-82dc-bae11bd757a2/cf9b708c-c96f-4628-80fe-8ca34ae5158a)
 
 ## Preparation
 This guide won't go into detail on the how and why of nudges. This would be way too much text, and better sources exist. And speaking of those better sources: I'm going to advise you to read two books that lay at the foundation of this Canvas. The rest of the guide will assume you've read both. 
@@ -29,7 +29,10 @@ The Canvas uses 4 points of view, which intersect in Step 5:
 
 By the time you finish step 7, you should have a holistic view of the gap between your current environment (or system, for the systems thinkers amongst us) and a future environment that would allow you to reach your intended goal. If at any time you find new information or gain new insights that would add to earlier made steps, just go back and add them. The Canvas is iterative, and should be a living document of insight and experiments. 
 
-Step 8 contains an example nudge format to help with refinement. You can tell the group to stick to the format or just refer to it as a good starting point. The main reason it's there is to help keep the nudges small, actionable and measurable. Remember, if a nudge requires weeks of planning to implement, it's *probably* too big. 
+Step 8 contains an example nudge format to help with refinement. You can tell the group to stick to the format or just refer to it as a good starting point. The main reason it's there is to help keep the nudges small, actionable and measurable. Remember, if a nudge requires weeks of planning to implement, it's *probably* too big.
+
+When you're done, your Nudge Canvas could look this this:
+![Nudge Canvas Example](nudgecanvasexample.png)
 
 ## Facilitating a group
 Now that you understand the Canvas, let's go through it step by step:
