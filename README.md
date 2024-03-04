@@ -90,7 +90,7 @@ Good luck & have fun!
 
 Wilbert Seele
 
-![Prosilience](Prosilience.png)(https://prosilience.consulting)
+![Prosilience](ProsilienceNew.png)(https://prosilience.consulting)
 
 ## Copyrights
 The Nudge Canvas and this Facilitators Guide is licensed under Creative Commons Attribution-ShareAlike 4.0 International [(CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/legalcode). 
